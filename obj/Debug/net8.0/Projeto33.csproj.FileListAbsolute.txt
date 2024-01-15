@@ -1,0 +1,17 @@
+C:\C#\Projetos02\Projeto33\bin\Debug\net8.0\Projeto33.exe
+C:\C#\Projetos02\Projeto33\bin\Debug\net8.0\Projeto33.deps.json
+C:\C#\Projetos02\Projeto33\bin\Debug\net8.0\Projeto33.runtimeconfig.json
+C:\C#\Projetos02\Projeto33\bin\Debug\net8.0\Projeto33.dll
+C:\C#\Projetos02\Projeto33\bin\Debug\net8.0\Projeto33.pdb
+C:\C#\Projetos02\Projeto33\bin\Debug\net8.0\RestSharp.dll
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\Projeto33.csproj.AssemblyReference.cache
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\Projeto33.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\Projeto33.AssemblyInfoInputs.cache
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\Projeto33.AssemblyInfo.cs
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\Projeto33.csproj.CoreCompileInputs.cache
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\Projeto33.csproj.CopyComplete
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\Projeto33.dll
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\refint\Projeto33.dll
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\Projeto33.pdb
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\Projeto33.genruntimeconfig.cache
+C:\C#\Projetos02\Projeto33\obj\Debug\net8.0\ref\Projeto33.dll

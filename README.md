@@ -1,0 +1,2 @@
+# Consumindo API de cep
+O sistema irá solicitar ao usuário o cep desejado. O valor será obtido e utilizado para fazer os request do conteúdo. Os dados serão retornados em formato JSON, sendo eles logradouro, bairro, localidade, cidade, uf, ddd, etc.

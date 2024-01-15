@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "88GeD2z1iQ2nvkYa3eNsLvIfU7uCtBytlekwqpd1rQZUod1dvNmC9zsvMTv6lbzohVcrIsayVcgg+IWcq9oK9Q==",
+  "success": true,
+  "projectFilePath": "C:\\C#\\Projetos02\\Projeto33\\Projeto33.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
